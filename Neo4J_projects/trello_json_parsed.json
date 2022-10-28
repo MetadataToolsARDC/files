@@ -1,0 +1,287 @@
+{
+    "board_data": {
+        "name": "Melanie - Agile Board",
+        "url": "https://trello.com/b/DOYBIXDg"
+    },
+    "cards": [
+        {
+            "name": "CSIRO schema.org",
+            "list": "Harvests to RDA - Pending",
+            "description": "https://demo.researchdata.ardc.edu.au/registry/data_source/manage#!/view/615",
+            "members": [],
+            "labels": [
+                "DO TODAY"
+            ]
+        },
+        {
+            "name": "JIRA - State Records Authority of NSW records in Research Data Australia https://jira.ardc.edu.au/browse/SD-703051",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Awaiting Response - Follow up?"
+            ]
+        },
+        {
+            "name": "Murdoch Harvest",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Awaiting Response - Follow up?"
+            ]
+        },
+        {
+            "name": "Uni of Canberra - Harvesting types 'Dataset' - confirmation required",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Awaiting Response - Follow up?"
+            ]
+        },
+        {
+            "name": "Uni of Melbourne - review of records",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Awaiting Response - Follow up?"
+            ]
+        },
+        {
+            "name": "CDU - Ready for PURE Harvest?",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Awaiting Response - Follow up?"
+            ]
+        },
+        {
+            "name": "NCI - Regular Meetings",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Regular Meetings and Progress"
+            ]
+        },
+        {
+            "name": "AODN Remaining - Check",
+            "list": "Harvests to RDA - Pending",
+            "description": "https://researchdata.edu.au/registry/data_source/manage#!/view/16",
+            "members": [],
+            "labels": [
+                "DO TODAY"
+            ]
+        },
+        {
+            "name": "USC to RDA - See google doc",
+            "list": "Harvests to RDA - Pending",
+            "description": "https://docs.google.com/document/d/1K3ygqGQkC-q23OefD2AADPW6DdCoHwwOV049UN7Oe5k/edit",
+            "members": [],
+            "labels": [
+                "Awaiting Response - Follow up?"
+            ]
+        },
+        {
+            "name": "Kate Federation Uni - GRDC - RIF-CS advice",
+            "list": "Harvests to RDA - Pending",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "ONDC Review Data Inventories Guide",
+            "list": "Awaiting Responses",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "How is CSIRO doing with schema.org",
+            "list": "How are things?",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Review Data Inventories Guide",
+            "list": "ONDC",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "DESE Report",
+            "list": "ONDC",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Mapping FA to CSIRO - https://govteams.sharepoint.com/:x:/r/sites/ondc/_layouts/15/Doc.aspx?sourcedoc=%7Bb71c9091-4a2c-4209-a21d-5c2e18df0305%7D&action=editnew",
+            "list": "ONDC",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Liz will do RDA presentation Liz has agreed to present an overview of Research Data Australia on the 20th October.",
+            "list": "ONDC",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "WorldFAIR - Project coordinator, CODATA and key partner, the Research Data Alliance outlined project governance and administration, before each of the case studies from a range of domain-specific and cross-domain research areas introduced their work package team and aims.",
+            "list": "FAIR",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Global/National Initiatives. https://docs.google.com/document/d/1vfufXx21Tz17JIKoPOeLIW4PEjN6487_xkiddrtnLvY/edit",
+            "list": "FAIR",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "FAIR Research Software",
+            "list": "FAIR",
+            "description": "https://zenodo.org/record/6623556#.YxUyMOxBxhG",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Salesforce - My Cases",
+            "list": "Salesforce",
+            "description": "https://ardc.lightning.force.com/lightning/o/Case/list?filterName=00B0o00000Daj6hEAB",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Salesforce - My Expertise",
+            "list": "Salesforce",
+            "description": "https://ardc.lightning.force.com/lightning/o/Opportunity/list?filterName=00B9o000000UoVwEAK",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Salesforce - All projects I liaise",
+            "list": "Salesforce",
+            "description": "https://ardc.lightning.force.com/lightning/r/Report/00O0o00000D1T9kEAF/view",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Assistance with Metadata (DP761 Fish and Shark Data) https://ardc.lightning.force.com/lightning/r/Opportunity/0069o000002a4cRAAQ/view",
+            "list": "Salesforce My Expertise",
+            "description": "https://docs.google.com/spreadsheets/d/1csGxnPh-EBDJH83-qARcogXBdpy4kSrIGrsJmG7G5Eo/edit#gid=0",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Geonetwork",
+            "list": "Watch - Software and Systems",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "OGC API",
+            "list": "Watch - Software and Systems",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Observational Health Data Sciences and Informatics (or OHDSI, pronounced \"Odyssey\")",
+            "list": "Watch - Software and Systems",
+            "description": "https://www.ohdsi.org/",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "pycsw - support for ISO19115-3",
+            "list": "Watch - Software and Systems",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Linked Data - RDF, RDFs, OWL, neo4J",
+            "list": "Watch - Software and Systems",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Datacite ontology within sparontologies",
+            "list": "Watch - Software and Systems",
+            "description": "http://www.sparontologies.net/ontologies\nhttps://sparontologies.github.io/datacite/current/datacite.html. https://sparontologies.github.io/\n",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "http://www.sparontologies.net/ontologies",
+            "list": "Watch - Software and Systems",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "http://www.sparontologies.net/ontologies",
+            "list": "Watch - Software and Systems",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "Coordinate all FAIR Resources",
+            "list": "Room for Improvement",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "ICSM MDWG",
+            "list": "Working Groups",
+            "description": "See MOU ARDC-ICSM MOU final and signed.pdf",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "HeSANDA",
+            "list": "Engagement",
+            "description": "",
+            "members": [],
+            "labels": [
+                "Regular Meetings and Progress"
+            ]
+        },
+        {
+            "name": "RDA display of NDA etc.",
+            "list": "Engagement",
+            "description": "",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "RAiD Metadata Assistance",
+            "list": "Engagement",
+            "description": "https://confluence.ardc.edu.au/display/raid/RAiD+metadata",
+            "members": [],
+            "labels": []
+        },
+        {
+            "name": "UWA Update Crosswalk - Keywords",
+            "list": "Done 2022_2023",
+            "description": "",
+            "members": [],
+            "labels": []
+        }
+    ]
+}
