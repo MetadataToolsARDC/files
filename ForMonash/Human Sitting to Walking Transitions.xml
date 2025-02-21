@@ -1,0 +1,428 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="/v2/static/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  
+  
+  <responseDate>2025-02-21T03:06:37Z</responseDate>
+  
+  
+  <request verb="ListRecords" resumptionToken="eyJwYWdlIjogODMsICJ2ZXJiIjogIkxpc3RSZWNvcmRzIiwgIm1ldGFkYXRhUHJlZml4IjogInJkZiIsICJpbnN0aXR1dGlvbl9pZCI6IDIxLCAiZXhwaXJhdGlvbiI6ICIyMDI1LTAyLTIxIDA0OjA2OjM1IiwgImN1cnNvciI6ICJleUpoYkdjaU9pSklVelV4TWlKOS5leUoyWVd4MVpYTWlPbHN4TnpJeE1ERXdNek0yTURBd0xESTJNekF4TURBM1hYMC53U3R0VV9jY1FSbTJabm9WVEZKMEVzaVhrSzBSX205WXhNSWxtQkI2bUNlMkpGWEZCVDV6UTRJaF8xRnd0Y0hCVTVZWXllbW90MTM0cWxaLUdBWkhoZyIsICJ4Q3Vyc29yIjogImV5SmhiR2NpT2lKSVV6VXhNaUo5LmV5SjJZV3gxWlhNaU9sc3hOekl3TnpjeE5qSXlNREF3TERJMk1qWTJNekUxWFgwLk82RTVtWGxLUFNvNThpdjVDaENpOXZ2REpEOUtnX0V3UHNfcXAwVWl2TU1DNFJ5amVrVFhjNXJpSXhHU2NmN2xyYXFQR1hvUlZ3OGFiQ21hVGhWT2lBIn0=">https://api.figshare.com/v2/oai</request>
+  
+  
+  <ListRecords>
+    
+    
+    
+    <record>
+      
+      
+      <header>
+        
+        
+        <identifier>oai:figshare.com:article/24515092</identifier>
+        
+        
+        <datestamp>2023-11-08T13:42:23Z</datestamp>
+        
+        
+        <setSpec>category_26272</setSpec>
+        
+        
+        <setSpec>category_26293</setSpec>
+        
+        
+        <setSpec>category_26419</setSpec>
+        
+        
+        <setSpec>category_26428</setSpec>
+        
+        
+        <setSpec>category_26443</setSpec>
+        
+        
+        <setSpec>portal_21</setSpec>
+        
+        
+        <setSpec>item_type_3</setSpec>
+        
+        
+        <setSpec>month_year_11_2023</setSpec>
+        
+      
+      </header>
+      
+      
+      <metadata>
+        
+        
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:vivo="http://vivoweb.org/ontology/core#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:rifcis="http://ands.org.au/standards/rif-cs/registryObjects">
+          
+          
+          <Collection rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092">
+            
+            
+            <bibo:doi>10.26180/24515092.v4</bibo:doi>
+            
+            
+            <rdfs:label>&lt;b&gt;Human Sitting to Walking Transitions: A Motion Capture Dataset&lt;/b&gt;</rdfs:label>
+            
+            
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2023-11-08"/>
+            
+            
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2024-07-11"/>
+            
+            
+            <vivo:dateCreated rdf:resource="http://openvivo.org/a/date2024-07-11"/>
+            
+            
+            <bibo:abstract>&lt;p dir=&quot;ltr&quot;&gt;Sit-to-walk (STW) is a crucial weight-bearing activity of daily living that directly impacts an individual’s mobility, independence and thus quality of life. It is necessary to understand the biomechanics, executions, and characteristics of STW through gold standard motion capture (Mocap), which is a vital step in assessing and assisting impaired motion. Existing repositories have limited STW data with small sample sizes that poorly represent a population. Hence, this study seeks to&lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt; &lt;/a&gt;present a publicly available STW dataset obtained via the time-up-and-go (TUG) test, for 65 healthy adults within three age groups – young (19-35 years), middle (36-55 years) and older (above 56 years). The dataset contains lower body Mocap, ground reaction force (GRF), surface electromyography (SEMG) and inertial measurement unit (IMU) data, with knee health information via responses for the knee injury and osteoarthritis outcome score (KOOS) survey. For validating this dataset, the within subjects intraclass correlation coefficients (ICC) for the maximum and minimum hip, knee, and ankle joint angles (derived using OpenSim 4.2) were calculated. All ICCs were greater than 0.74, indicating good test-retest reliability, while the joint angle trajectories were comparable with existing literature, showing a match in overall trends and range. Analysis of this STW motion data allows biomechanics and executions to be studied across age groups. The biomechanical trajectories of healthy adults can serve as a benchmark in assessing neuromusculoskeletal impairments, monitoring recovery progress and in the design of assistive technology for treatment plans or rehabilitation.&lt;/p&gt;</bibo:abstract>
+            
+            
+            <bibo:freetextKeyword>Sit-to-walk</bibo:freetextKeyword>
+            
+            
+            <bibo:freetextKeyword>Standing</bibo:freetextKeyword>
+            
+            
+            <bibo:freetextKeyword>IMU</bibo:freetextKeyword>
+            
+            
+            <bibo:freetextKeyword>Surface electromyography</bibo:freetextKeyword>
+            
+            
+            <bibo:freetextKeyword>Timed-up-and-go test</bibo:freetextKeyword>
+            
+            
+            <bibo:freetextKeyword>Maximum Voluntary Contraction</bibo:freetextKeyword>
+            
+            
+            <dc:rights>CC BY 4.0</dc:rights>
+            
+          
+          </Collection>
+          
+          
+          <vivo:Authorship rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092-authorship-17357797">
+            
+            
+            <vivo:relates>
+              
+              
+              <vcard:Individual rdf:about="https://figshare.com/authors/Chamalka_Perera/17357797-vcard">
+                
+                
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Chamalka_Perera/17357797-name"/>
+                
+                
+                <obo:ARG_2000029>
+                  
+                  
+                  <foaf:Person rdf:about="https://figshare.com/authors/Chamalka_Perera/17357797">
+                    
+                    
+                    <vivo:orcidId rdf:resource="http://orcid.org/0000-0002-9104-1224"/>
+                    
+                    
+                    <rdfs:label>Chamalka Perera</rdfs:label>
+                    
+                  
+                  </foaf:Person>
+                  
+                
+                </obo:ARG_2000029>
+                
+              
+              </vcard:Individual>
+              
+            
+            </vivo:relates>
+            
+            
+            <vivo:relates rdf:resource="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092"/>
+            
+            
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+            
+          
+          </vivo:Authorship>
+          
+          
+          <vcard:Name rdf:about="https://figshare.com/authors/Chamalka_Perera/17357797-name">
+            
+            
+            <vcard:givenName>Chamalka</vcard:givenName>
+            
+            
+            <vcard:familyName>Perera</vcard:familyName>
+            
+          
+          </vcard:Name>
+          
+          
+          <vivo:Thing rdf:about="http://orcid.org/0000-0002-9104-1224"/>
+          
+          
+          <vivo:Authorship rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092-authorship-17324926">
+            
+            
+            <vivo:relates>
+              
+              
+              <vcard:Individual rdf:about="https://figshare.com/authors/Zakia_Hussain/17324926-vcard">
+                
+                
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Zakia_Hussain/17324926-name"/>
+                
+                
+                <obo:ARG_2000029>
+                  
+                  
+                  <foaf:Person rdf:about="https://figshare.com/authors/Zakia_Hussain/17324926">
+                    
+                    
+                    <vivo:orcidId rdf:resource="http://orcid.org/0000-0002-1695-1826"/>
+                    
+                    
+                    <rdfs:label>Zakia Hussain</rdfs:label>
+                    
+                  
+                  </foaf:Person>
+                  
+                
+                </obo:ARG_2000029>
+                
+              
+              </vcard:Individual>
+              
+            
+            </vivo:relates>
+            
+            
+            <vivo:relates rdf:resource="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092"/>
+            
+            
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+            
+          
+          </vivo:Authorship>
+          
+          
+          <vcard:Name rdf:about="https://figshare.com/authors/Zakia_Hussain/17324926-name">
+            
+            
+            <vcard:givenName>Zakia</vcard:givenName>
+            
+            
+            <vcard:familyName>Hussain</vcard:familyName>
+            
+          
+          </vcard:Name>
+          
+          
+          <vivo:Thing rdf:about="http://orcid.org/0000-0002-1695-1826"/>
+          
+          
+          <vivo:Authorship rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092-authorship-14010495">
+            
+            
+            <vivo:relates>
+              
+              
+              <vcard:Individual rdf:about="https://figshare.com/authors/Min_Khant/14010495-vcard">
+                
+                
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Min_Khant/14010495-name"/>
+                
+                
+                <obo:ARG_2000029>
+                  
+                  
+                  <foaf:Person rdf:about="https://figshare.com/authors/Min_Khant/14010495">
+                    
+                    
+                    <vivo:orcidId rdf:resource="http://orcid.org/0000-0002-5793-0204"/>
+                    
+                    
+                    <rdfs:label>Min Khant</rdfs:label>
+                    
+                  
+                  </foaf:Person>
+                  
+                
+                </obo:ARG_2000029>
+                
+              
+              </vcard:Individual>
+              
+            
+            </vivo:relates>
+            
+            
+            <vivo:relates rdf:resource="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092"/>
+            
+            
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+            
+          
+          </vivo:Authorship>
+          
+          
+          <vcard:Name rdf:about="https://figshare.com/authors/Min_Khant/14010495-name">
+            
+            
+            <vcard:givenName>Min</vcard:givenName>
+            
+            
+            <vcard:familyName>Khant</vcard:familyName>
+            
+          
+          </vcard:Name>
+          
+          
+          <vivo:Thing rdf:about="http://orcid.org/0000-0002-5793-0204"/>
+          
+          
+          <vivo:Authorship rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092-authorship-17389756">
+            
+            
+            <vivo:relates>
+              
+              
+              <vcard:Individual rdf:about="https://figshare.com/authors/Alpha_Agape/17389756-vcard">
+                
+                
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Alpha_Agape/17389756-name"/>
+                
+                
+                <obo:ARG_2000029>
+                  
+                  
+                  <foaf:Person rdf:about="https://figshare.com/authors/Alpha_Agape/17389756">
+                    
+                    
+                    <vivo:orcidId rdf:resource="http://orcid.org/0000-0003-0362-6431"/>
+                    
+                    
+                    <rdfs:label>Alpha Agape</rdfs:label>
+                    
+                  
+                  </foaf:Person>
+                  
+                
+                </obo:ARG_2000029>
+                
+              
+              </vcard:Individual>
+              
+            
+            </vivo:relates>
+            
+            
+            <vivo:relates rdf:resource="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092"/>
+            
+            
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+            
+          
+          </vivo:Authorship>
+          
+          
+          <vcard:Name rdf:about="https://figshare.com/authors/Alpha_Agape/17389756-name">
+            
+            
+            <vcard:givenName>Alpha</vcard:givenName>
+            
+            
+            <vcard:familyName>Agape</vcard:familyName>
+            
+          
+          </vcard:Name>
+          
+          
+          <vivo:Thing rdf:about="http://orcid.org/0000-0003-0362-6431"/>
+          
+          
+          <vivo:Authorship rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092-authorship-17360767">
+            
+            
+            <vivo:relates>
+              
+              
+              <vcard:Individual rdf:about="https://figshare.com/authors/Darwin_Gouwanda/17360767-vcard">
+                
+                
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Darwin_Gouwanda/17360767-name"/>
+                
+              
+              </vcard:Individual>
+              
+            
+            </vivo:relates>
+            
+            
+            <vivo:relates rdf:resource="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092"/>
+            
+            
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+            
+          
+          </vivo:Authorship>
+          
+          
+          <vcard:Name rdf:about="https://figshare.com/authors/Darwin_Gouwanda/17360767-name">
+            
+            
+            <vcard:givenName>Darwin</vcard:givenName>
+            
+            
+            <vcard:familyName>Gouwanda</vcard:familyName>
+            
+          
+          </vcard:Name>
+          
+          
+          <rifcis:registryObjects rdf:about="https://figshare.com/articles/dataset/_b_Human_Sitting_to_Walking_Transitions_A_Motion_Capture_Dataset_b_/24515092">
+            
+            
+            <rifcis:registryObject group="bridges.monash.edu">
+              
+              
+              <rifcis:citationInfo>
+                
+                
+                <rifcis:fullCitation style="Datacite">Perera, Chamalka; Hussain, Zakia; Khant, Min; Agape, Alpha; Gouwanda, Darwin (2023). &lt;b&gt;Human Sitting to Walking Transitions: A Motion Capture Dataset&lt;/b&gt;. figshare. Dataset. https://doi.org/10.26180/24515092.v4</rifcis:fullCitation>
+                
+                
+                <rifcis:citationMetadata>
+                  
+                  
+                  <rifcis:publisher>Monash University</rifcis:publisher>
+                  
+                
+                </rifcis:citationMetadata>
+                
+              
+              </rifcis:citationInfo>
+              
+            
+            </rifcis:registryObject>
+            
+          
+          </rifcis:registryObjects>
+          
+        
+        </rdf:RDF>
+        
+      
+      </metadata>
+      
+    
+    </record>
+    
+   
+  
+  </ListRecords>
+  
+
+</OAI-PMH>

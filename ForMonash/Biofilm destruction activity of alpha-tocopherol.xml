@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="/v2/static/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  
+  
+  <responseDate>2025-02-21T03:16:37Z</responseDate>
+  
+  
+  <request verb="ListRecords" resumptionToken="eyJwYWdlIjogMjg2LCAidmVyYiI6ICJMaXN0UmVjb3JkcyIsICJtZXRhZGF0YVByZWZpeCI6ICJyZGYiLCAiaW5zdGl0dXRpb25faWQiOiAyMSwgImV4cGlyYXRpb24iOiAiMjAyNS0wMi0yMSAwNDoxNjozNCIsICJjdXJzb3IiOiAiZXlKaGJHY2lPaUpJVXpVeE1pSjkuZXlKMllXeDFaWE1pT2xzeE5qazNOakExTnpNME1EQXdMREkwTXpNd09EQTRYWDAueU5UR19vekl1UG5YbmRZYmdJcUM5OHl1dUdwOFdIZHB0bXZrZVZSaElIRnk0bTdxbHpvX1RVZ1BCR3B1b0k0RlVyWFM2ZWNSTTM0ZUswX2ZPVzc4NmciLCAieEN1cnNvciI6ICJleUpoYkdjaU9pSklVelV4TWlKOS5leUoyWVd4MVpYTWlPbHN4TmprM05ERTFPRFUyTURBd0xESTBNekV5TnpZNVhYMC5zWldNa29ST2RDSHBHbm55c1RGSUstbDYxRWxxdDhYdFRxT1ZyUU42eW9xajFFX05XREZmbDlmTkJYSVhQRFlPenJKVDN2Ni1yeDBDcHBNbkdPWmVNZyJ9">https://api.figshare.com/v2/oai</request>
+  
+  
+  <ListRecords>
+    
+   
+    <record>
+      
+      
+      <header>
+        
+        
+        <identifier>oai:figshare.com:article/24305467</identifier>
+        
+        
+        <datestamp>2023-10-13T09:14:41Z</datestamp>
+        
+        
+        <setSpec>category_24370</setSpec>
+        
+        
+        <setSpec>portal_21</setSpec>
+        
+        
+        <setSpec>item_type_3</setSpec>
+        
+        
+        <setSpec>month_year_10_2023</setSpec>
+        
+      
+      </header>
+      
+      
+      <metadata>
+        
+        
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:vivo="http://vivoweb.org/ontology/core#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:rifcis="http://ands.org.au/standards/rif-cs/registryObjects">
+          
+          
+          <Collection rdf:about="https://figshare.com/articles/dataset/_b_Biofilm_destruction_activity_of_alpha-tocopherol_against_b_b_i_Staphylococcus_aureus_Proteus_mirabilis_i_b_b_and_b_b_i_Pseudomonas_aeruginosa_i_b_/24305467">
+            
+            
+            <bibo:doi>10.26180/24305467.v1</bibo:doi>
+            
+            
+            <rdfs:label>&lt;b&gt;Biofilm destruction activity of alpha-tocopherol against &lt;/b&gt;&lt;b&gt;&lt;i&gt;Staphylococcus aureus, Proteus mirabilis &lt;/i&gt;&lt;/b&gt;&lt;b&gt;and &lt;/b&gt;&lt;b&gt;&lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt;&lt;/b&gt;</rdfs:label>
+            
+            
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2023-10-13"/>
+            
+            
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2023-10-13"/>
+            
+            
+            <vivo:dateCreated rdf:resource="http://openvivo.org/a/date2023-10-13"/>
+            
+            
+            <bibo:abstract>&lt;p dir=&quot;ltr&quot;&gt;The biofilm destruction activity of alpha-tocopherol against &lt;i&gt;Staphylococcus aureus, Proteus mirabilis&lt;/i&gt; and &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; on polystyrene was investigated. Resazurin assay demonstrated that alpha-tocopherol disrupted the bacteria biofilms without interfering with the microbial cell viability. &lt;/p&gt;</bibo:abstract>
+            
+            
+            <bibo:freetextKeyword>Biofilm destruction activity</bibo:freetextKeyword>
+            
+            
+            <bibo:freetextKeyword>Microbial cell viability</bibo:freetextKeyword>
+            
+            
+            <dc:rights>CC BY-NC-ND 4.0</dc:rights>
+            
+          
+          </Collection>
+          
+          
+          <vivo:Authorship rdf:about="https://figshare.com/articles/dataset/_b_Biofilm_destruction_activity_of_alpha-tocopherol_against_b_b_i_Staphylococcus_aureus_Proteus_mirabilis_i_b_b_and_b_b_i_Pseudomonas_aeruginosa_i_b_/24305467-authorship-14187854">
+            
+            
+            <vivo:relates>
+              
+              
+              <vcard:Individual rdf:about="https://figshare.com/authors/Choo_Wee_Sim/14187854-vcard">
+                
+                
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Choo_Wee_Sim/14187854-name"/>
+                
+              
+              </vcard:Individual>
+              
+            
+            </vivo:relates>
+            
+            
+            <vivo:relates rdf:resource="https://figshare.com/articles/dataset/_b_Biofilm_destruction_activity_of_alpha-tocopherol_against_b_b_i_Staphylococcus_aureus_Proteus_mirabilis_i_b_b_and_b_b_i_Pseudomonas_aeruginosa_i_b_/24305467"/>
+            
+            
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+            
+          
+          </vivo:Authorship>
+          
+          
+          <vcard:Name rdf:about="https://figshare.com/authors/Choo_Wee_Sim/14187854-name">
+            
+            
+            <vcard:givenName>Choo</vcard:givenName>
+            
+            
+            <vcard:familyName>Wee Sim</vcard:familyName>
+            
+          
+          </vcard:Name>
+          
+          
+          <rifcis:registryObjects rdf:about="https://figshare.com/articles/dataset/_b_Biofilm_destruction_activity_of_alpha-tocopherol_against_b_b_i_Staphylococcus_aureus_Proteus_mirabilis_i_b_b_and_b_b_i_Pseudomonas_aeruginosa_i_b_/24305467">
+            
+            
+            <rifcis:registryObject group="bridges.monash.edu">
+              
+              
+              <rifcis:citationInfo>
+                
+                
+                <rifcis:fullCitation style="Datacite">Wee Sim, Choo (2023). &lt;b&gt;Biofilm destruction activity of alpha-tocopherol against &lt;/b&gt;&lt;b&gt;&lt;i&gt;Staphylococcus aureus, Proteus mirabilis &lt;/i&gt;&lt;/b&gt;&lt;b&gt;and &lt;/b&gt;&lt;b&gt;&lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt;&lt;/b&gt;. figshare. Dataset. https://doi.org/10.26180/24305467.v1</rifcis:fullCitation>
+                
+                
+                <rifcis:citationMetadata>
+                  
+                  
+                  <rifcis:publisher>Monash University</rifcis:publisher>
+                  
+                
+                </rifcis:citationMetadata>
+                
+              
+              </rifcis:citationInfo>
+              
+            
+            </rifcis:registryObject>
+            
+          
+          </rifcis:registryObjects>
+          
+        
+        </rdf:RDF>
+        
+      
+      </metadata>
+      
+    
+    </record>
+    
+    
+    
+  
+  </ListRecords>
+  
+
+</OAI-PMH>
