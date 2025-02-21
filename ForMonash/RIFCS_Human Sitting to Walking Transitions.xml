@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects https://researchdata.edu.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="Monash University">
+        <key>5057485349535250471011089910511611497581091119946</key>
+        <originatingSource>Monash University Figshare</originatingSource>
+        <collection type="dataset" dateModified="2024-07-11">
+            <identifier type="doi">https://doi.org/10.26180/24515092.v4</identifier>
+            <location>
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>https://doi.org/10.26180/24515092.v4</value>
+                    </electronic>
+                </address>
+            </location>
+            <name type="primary">
+                <namePart>Human Sitting to Walking Transitions: A Motion Capture Dataset</namePart>
+            </name>
+            <relatedInfo type="party">
+                <identifier type="orcid">http://orcid.org/0000-0002-9104-1224</identifier>
+                <title>Chamalka Perera</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="orcid">http://orcid.org/0000-0002-1695-1826</identifier>
+                <title>Zakia Hussain</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="orcid">http://orcid.org/0000-0002-5793-0204</identifier>
+                <title>Min Khant</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="orcid">http://orcid.org/0000-0003-0362-6431</identifier>
+                <title>Alpha Agape</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="url">https://figshare.com/authors/Darwin_Gouwanda/17360767</identifier>
+                <title>Darwin Gouwanda</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <subject type="local">Sit-to-walk</subject>
+            <subject type="local">Standing</subject>
+            <subject type="local">IMU</subject>
+            <subject type="local">Surface electromyography</subject>
+            <subject type="local">Timed-up-and-go test</subject>
+            <subject type="local">Maximum Voluntary Contraction</subject>
+            <rights>
+                <licence type="CC-BY">CC-BY-4.0</licence>
+            </rights>
+            <subject type="local">Biomechanical engineering</subject>
+            <subject type="local">Rehabilitation engineering</subject>
+            <subject type="local">Assistive robots and technology</subject>
+            <subject type="local">Biomechatronics</subject>
+            <subject type="local">Medical robotics</subject>
+            <description type="full">&lt;p dir="ltr"&gt;Sit-to-walk (STW) is a crucial weight-bearing activity of daily living that directly impacts an individual’s mobility, independence and thus quality of life. It is necessary to understand the biomechanics, executions, and characteristics of STW through gold standard motion capture (Mocap), which is a vital step in assessing and assisting impaired motion. Existing repositories have limited STW data with small sample sizes that poorly represent a population. Hence, this study seeks to&lt;a href="" target="_blank"&gt; &lt;/a&gt;present a publicly available STW dataset obtained via the time-up-and-go (TUG) test, for 65 healthy adults within three age groups – young (19-35 years), middle (36-55 years) and older (above 56 years). The dataset contains lower body Mocap, ground reaction force (GRF), surface electromyography (SEMG) and inertial measurement unit (IMU) data, with knee health information via responses for the knee injury and osteoarthritis outcome score (KOOS) survey. For validating this dataset, the within subjects intraclass correlation coefficients (ICC) for the maximum and minimum hip, knee, and ankle joint angles (derived using OpenSim 4.2) were calculated. All ICCs were greater than 0.74, indicating good test-retest reliability, while the joint angle trajectories were comparable with existing literature, showing a match in overall trends and range. Analysis of this STW motion data allows biomechanics and executions to be studied across age groups. The biomechanical trajectories of healthy adults can serve as a benchmark in assessing neuromusculoskeletal impairments, monitoring recovery progress and in the design of assistive technology for treatment plans or rehabilitation.&lt;/p&gt;</description>
+            <dates type="issued">
+                <date type="dateFrom" dateFormat="W3CDTF">2023-11-08</date>
+            </dates>
+            <dates type="created">
+                <date type="dateFrom" dateFormat="W3CDTF">2024-07-11</date>
+            </dates>
+            <citationInfo>
+                <fullCitation style="Datacite">Perera, Chamalka; Hussain, Zakia; Khant, Min; Agape, Alpha; Gouwanda, Darwin (2023). Human Sitting to Walking Transitions: A Motion Capture Dataset. figshare. Dataset. https://doi.org/10.26180/24515092.v4</fullCitation>
+            </citationInfo>
+        </collection>
+    </registryObject>
+</registryObjects>
+
+

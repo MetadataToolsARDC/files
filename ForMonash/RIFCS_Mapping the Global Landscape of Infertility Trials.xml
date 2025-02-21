@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects https://researchdata.edu.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="Monash University">
+        <key>5548535456485450471011089910511611497581091119946</key>
+        <originatingSource>Monash University Figshare</originatingSource>
+        <collection type="collection" dateModified="2024-06-24">
+            <identifier type="doi">https://doi.org/10.26180/26086507.v1</identifier>
+            <location>
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>https://doi.org/10.26180/26086507.v1</value>
+                    </electronic>
+                </address>
+            </location>
+            <name type="primary">
+                <namePart>Mapping the Global Landscape of Infertility Trials</namePart>
+            </name>
+            <relatedInfo type="party">
+                <identifier type="url">https://figshare.com/authors/Qian_Feng/18869800</identifier>
+                <title>Qian Feng</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <subject type="local">infertility treatment Objectives</subject>
+            <subject type="local">reproduction health</subject>
+            <rights>
+                <licence type="CC-BY">CC-BY-4.0</licence>
+            </rights>
+            <subject type="local">Reproduction</subject>
+            <description type="full">&lt;p dir="ltr"&gt;Infertility affects one in every six couples worldwide. Randomized controlled trials are the best way to identify safe and effective treatments, but it is unclear how many of the trials are useful and designed with high quality. &lt;/p&gt;&lt;p dir="ltr"&gt;My PhD aims to describe the landscape of infertility trials and map out the methodological issues of these trials. Uncovering the strengths and limitations of the trials will help us pinpoint the research priority and optimize the design of future research. &lt;/p&gt;</description>
+            <dates type="issued">
+                <date type="dateFrom" dateFormat="W3CDTF">2024-06-24</date>
+            </dates>
+            <dates type="created">
+                <date type="dateFrom" dateFormat="W3CDTF">2024-06-24</date>
+            </dates>
+            <citationInfo>
+                <fullCitation style="Datacite">Feng, Qian (2024). Mapping the Global Landscape of Infertility Trials. figshare. Media. https://doi.org/10.26180/26086507.v1</fullCitation>
+            </citationInfo>
+        </collection>
+    </registryObject>
+</registryObjects>

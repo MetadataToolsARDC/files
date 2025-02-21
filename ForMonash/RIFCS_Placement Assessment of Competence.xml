@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects https://researchdata.edu.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="Monash University">
+        <key>5448495756575350471011089910511611497581091119946</key>
+        <originatingSource>Monash University Figshare</originatingSource>
+        <collection type="collection" dateModified="2024-06-07">
+            <identifier type="doi">https://doi.org/10.26180/25989106.v1</identifier>
+            <location>
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>https://doi.org/10.26180/25989106.v1</value>
+                    </electronic>
+                </address>
+            </location>
+            <name type="primary">
+                <namePart>Placement Assessment of Competence - Educational &amp; Developmental (PAC-ED)</namePart>
+            </name>
+            <relatedInfo type="party">
+                <identifier type="orcid">http://orcid.org/0000-0002-0288-1708</identifier>
+                <title>Zoe Morris</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="url">https://figshare.com/authors/Chelsea_Hyde/12953825</identifier>
+                <title>Chelsea Hyde</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="local">18781078</identifier>
+                <title>Glenn Howard</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="local">18781079</identifier>
+                <title>Emma Little</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="local">18781082</identifier>
+                <title>Claire Ting</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="local">18781085</identifier>
+                <title>Philippa Neary</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="url">https://figshare.com/authors/Elly_Quinlan/15435998</identifier>
+                <title>Elly Quinlan</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="local">18781087</identifier>
+                <title>Marietta Dellas</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <identifier type="url">https://figshare.com/authors/Fathima_Saleem/12955178</identifier>
+                <title>Fathima Saleem</title>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <subject type="local">psychology training and education</subject>
+            <subject type="local">competency assessment tool</subject>
+            <subject type="local">Educational and Developmental Psychology</subject>
+            <rights>
+                <licence type="CC-BY-NC-ND">CC-BY-NC-ND-4.0</licence>
+            </rights>
+            <subject type="local">Educational psychology</subject>
+            <subject type="local">Applied and developmental psychology not elsewhere classified</subject>
+            <description type="full">&lt;p dir="ltr"&gt;The Placement Assessment of Competence - Educational and Developmental (PAC-ED) is a competency assessment tool used to evaluate provisional psychologists undertaking levels 3 and 4 APAC-approved training in psychology in the area of educational and developmental psychology. &lt;/p&gt;&lt;p dir="ltr"&gt;The tool is informed by the APAC accreditation standards (2019) and the PsyBA draft competencies for general registration (2024). &lt;/p&gt;&lt;p dir="ltr"&gt;For more information, or for an editable copy of the document, please contact &lt;a href="http://zoe.morris@monash.edu" rel="noreferrer" target="_blank"&gt;zoe.morris@monash.edu&lt;/a&gt;.&lt;/p&gt;</description>
+            <dates type="issued">
+                <date type="dateFrom" dateFormat="W3CDTF">2024-06-07</date>
+            </dates>
+            <dates type="created">
+                <date type="dateFrom" dateFormat="W3CDTF">2024-06-07</date>
+            </dates>
+            <citationInfo>
+                <fullCitation style="Datacite">Morris, Zoe; Hyde, Chelsea; Howard, Glenn; Little, Emma; Ting, Claire; Neary, Philippa; et al. (2024). Placement Assessment of Competence - Educational &amp; Developmental (PAC-ED). figshare. Figure. https://doi.org/10.26180/25989106.v1</fullCitation>
+            </citationInfo>
+        </collection>
+    </registryObject>
+</registryObjects>
+
+
