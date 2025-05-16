@@ -300,7 +300,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#A</value>
                </electronic>
             </address>
          </location>
@@ -1676,7 +1676,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#1</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1708,7 +1708,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1772,7 +1772,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1804,7 +1804,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1836,7 +1836,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1868,7 +1868,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1900,7 +1900,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1932,7 +1932,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -1964,7 +1964,7 @@
          <location>
             <address>
                <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#2</value>
+                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#N</value>
                </electronic>
             </address>
          </location>
@@ -3171,11 +3171,11 @@
       </collection>
    </registryObject>
    <registryObject group="Australian Institute of Health and Welfare">
-      <key>AIHW/SupportedAccommodationAssistanceProgramData</key>
+      <key>AIHW/SupportedAccommodationAssistanceProgramDataCollection</key>
       <originatingSource>http://aihw.gov.au</originatingSource>
       <collection type="collection">
          <name type="primary">
-            <namePart>Supported Accommodation Assistance Program Data</namePart>
+            <namePart>Supported Accommodation Assistance Program Data Collection</namePart>
          </name>
          <location>
             <address>
@@ -3192,42 +3192,10 @@
             </temporal>
          </coverage>
          <description type="lineage">Methodology: Admin data</description>
-         <description type="full">The Specialist Homelessness Services Collection (SHSC) replaced the SAAP National Data Collection (NDC) on 1 July 2011. For key differences between the&lt;br&gt;&lt;br&gt;The scope of SAAP NDC data varied by collection component and over time. For more</description>
-         <description type="note">Variables to support reporting and linkage: Age (Date of birth); Sex/gender; Indigenous</description>
+         <description type="full">The Specialist Homelessness Services Collection (SHSC) replaced the SAAP National Data Collection (NDC) on 1 July 2011. For key differences between the SAAP NDC and SHSC, see Appendix Dof Specialist Homelessness Services 2011– 12 (AIHW website). The SAAP NDC provided nationally consistent information on SAAP clients and services from July 1996 to June 2011. It was jointly funded by Commonwealth, state and territory governments and comprised three main collections: • Client collection – the main component, captured socio demographic information about clients receiving support under SAAP, services required by and provided to each client, and client circumstances before and after receiving support. • Demand for accommodation collection – which operated over a 1-week period, twice yearly. It captured information about the number of people who requested accommodation at SAAP agencies, which requests were met, and reasons for this. • Administrative collection – collated from information obtained by state and territory government departments in the course of administering the SAAP program. It captured descriptive information about SAAP agencies. The following special issues collections were also undertaken as part of the SAAP NDC: • Casual client collection – discontinued from the SAAP NDC in June 2005 when the definitions of client and support period were changed so that many people previously counted as casual clients would be counted in the Client collection from 1 July 2005. • Accompanying child in SAAP collection – collected information about the children who accompanied an adult and received assistance under SAAP between 21 May and 30 June 1998. • Income issues collection – collected information on SAAP clients with no/very low income. It was conducted from May to June 2000. A number of methodological changes to the SAAP NDC occurred over time. Refinements to data items introduced in July each year are summarised in the annual reports for the data collection, available from the AIHW website. In particular, in 2005–06 a Core Data Set was introduced (collecting fewer data items, introducing a new statistical linkage key and incorporating changes to some definitions) and from 2000–01, the Client Collection captured demographic and support information for each child requiring assistance. The AIHW continues to hold data collected through the following surveys of SAAP agencies conducted by the AIHW outside of the SAAP NDC: • High and complex needs census (June 2008). • Youth homelessness pilot programme collection (1 July 1997 to 31 December 1999). • NSW access and exiting project collection (23 August to 1 September 2002). Access to SAAP data collected outside of the SAAP NDC is restricted.&lt;br&gt;&lt;br&gt;The scope of SAAP NDC data varied by collection component and over time. For more information, refer to the annual reports for the data collection, available from the AIHW website.</description>
+         <description type="note">Variables to support reporting and linkage: Age (Date of birth); Sex/gender; Indigenous status</description>
          <rights>
-            <rightsStatement>Publications, Summary tables published in electronic form, Statistics, Client specified tables on</rightsStatement>
-         </rights>
-         <rights>
-            <accessRights/>
-         </rights>
-      </collection>
-   </registryObject>
-   <registryObject group="Australian Institute of Health and Welfare">
-      <key>AIHW/Collection</key>
-      <originatingSource>http://aihw.gov.au</originatingSource>
-      <collection type="collection">
-         <name type="primary">
-            <namePart>Collection</namePart>
-         </name>
-         <location>
-            <address>
-               <electronic type="url">
-                  <value>https://www.aihw.gov.au/about-our-data/our-data-collections#C</value>
-               </electronic>
-            </address>
-         </location>
-         <coverage>
-            <spatial type="text"/>
-            <temporal>
-               <date type="dateFrom" dateFormat="W3CDTF"/>
-               <date type="dateTo" dateFormat="W3CDTF"/>
-            </temporal>
-         </coverage>
-         <description type="lineage">Methodology: </description>
-         <description type="full">SAAP NDC and SHSC, see Appendix Dof Specialist Homelessness Services 2011– 12 (AIHW website). The SAAP NDC provided nationally consistent information on SAAP clients and services from July 1996 to June 2011. It was jointly funded by Commonwealth, state and territory governments and comprised three main collections: • Client collection – the main component, captured socio demographic information about clients receiving support under SAAP, services required by and provided to each client, and client circumstances before and after receiving support. • Demand for accommodation collection – which operated over a 1-week period, twice yearly. It captured information about the number of people who requested accommodation at SAAP agencies, which requests were met, and reasons for this. • Administrative collection – collated from information obtained by state and territory government departments in the course of administering the SAAP program. It captured descriptive information about SAAP agencies. The following special issues collections were also undertaken as part of the SAAP NDC: • Casual client collection – discontinued from the SAAP NDC in June 2005 when the definitions of client and support period were changed so that many people previously counted as casual clients would be counted in the Client collection from 1 July 2005. • Accompanying child in SAAP collection – collected information about the children who accompanied an adult and received assistance under SAAP between 21 May and 30 June 1998. • Income issues collection – collected information on SAAP clients with no/very low income. It was conducted from May to June 2000. A number of methodological changes to the SAAP NDC occurred over time. Refinements to data items introduced in July each year are summarised in the annual reports for the data collection, available from the AIHW website. In particular, in 2005–06 a Core Data Set was introduced (collecting fewer data items, introducing a new statistical linkage key and incorporating changes to some definitions) and from 2000–01, the Client Collection captured demographic and support information for each child requiring assistance. The AIHW continues to hold data collected through the following surveys of SAAP agencies conducted by the AIHW outside of the SAAP NDC: • High and complex needs census (June 2008). • Youth homelessness pilot programme collection (1 July 1997 to 31 December 1999). • NSW access and exiting project collection (23 August to 1 September 2002). Access to SAAP data collected outside of the SAAP NDC is restricted.&lt;br&gt;&lt;br&gt;information, refer to the annual reports for the data collection, available from the AIHW website.</description>
-         <description type="note">Variables to support reporting and linkage: status</description>
-         <rights>
-            <rightsStatement>request which may be subject to data provider approval (charges apply), Restricted unit record access subject to Ethics Committee approval and/or the agreement of all relevant data custodians in all states and territories (charges may apply)., There are restrictions and limitations governing the availability or use of other data in this holding.</rightsStatement>
+            <rightsStatement>Publications, Summary tables published in electronic form, Statistics, Client specified tables on request which may be subject to data provider approval (charges apply), Restricted unit record access subject to Ethics Committee approval and/or the agreement of all relevant data custodians in all states and territories (charges may apply)., There are restrictions and limitations governing the availability or use of other data in this holding.</rightsStatement>
          </rights>
          <rights>
             <accessRights/>
